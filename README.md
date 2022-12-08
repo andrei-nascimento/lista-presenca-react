@@ -1,4 +1,4 @@
-# Lista de Presença
+# Lista de Presença📝
 
 Aplicação desenvolvida em ReactJS utilizando os principais fundamentos da biblioteca.
 
